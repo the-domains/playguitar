@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FRIENDLYMUSICIAN]]></title>
+        <description><![CDATA[FRIENDLYMUSICIAN]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 May 2016 07:18:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is this Audio of Axl Rose Fronting AC/DC?]]></title>
+            <description><![CDATA[<article><h1>Is this Audio of Axl Rose Fronting AC/DC?</h1><p>Axl Rose is moving forward as AC/DC's replacement lead singer, and now audio of the band's rehearsal appears to have surfaced online. A listener in Lisbon, Portugal captured Axl allegedly singing with AC/DC as they practiced. It's not clear what the rehearsal was for, but the band is slated to perform in the city on May 7.</p><img src="https://i2.wp.com/cbsradionews.files.wordpress.com/2016/03/angus-young-axl-rose-split.jpg?fit=440%2C330&ssl=1"></article>]]></description>
+            <link>http://radio.com/2016/05/02/is-this-audio-of-axl-rose-fronting-acdc/</link>
+            <guid isPermaLink="false">640131e9-ffdc-4e3d-bfdb-7bd8633b9640</guid>
+            <pubDate>Thu, 05 May 2016 07:18:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
