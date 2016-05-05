@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[FRIENDLYMUSICIAN]]></title>
         <description><![CDATA[FRIENDLYMUSICIAN]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/playguitar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 07:18:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 07:19:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/playguitar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Is this Audio of Axl Rose Fronting AC/DC?]]></title>
-            <description><![CDATA[<article><h1>Is this Audio of Axl Rose Fronting AC/DC?</h1><p>Axl Rose is moving forward as AC/DC's replacement lead singer, and now audio of the band's rehearsal appears to have surfaced online. A listener in Lisbon, Portugal captured Axl allegedly singing with AC/DC as they practiced. It's not clear what the rehearsal was for, but the band is slated to perform in the city on May 7.</p><img src="https://i2.wp.com/cbsradionews.files.wordpress.com/2016/03/angus-young-axl-rose-split.jpg?fit=440%2C330&ssl=1"></article>]]></description>
+            <description><![CDATA[<article><h1>Is this Audio of Axl Rose Fronting AC/DC?</h1><p>Axl Rose is moving forward as AC/DC's replacement lead singer, and now audio of the band's rehearsal appears to have surfaced online. A listener in Lisbon, Portugal captured Axl allegedly singing with AC/DC as they practiced. It's not clear what the rehearsal was for, but the band is slated to perform in the city on May 7.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1185310ea0ba8ab76523a2362ecc323a5c84b38.jpg"></article>]]></description>
             <link>http://radio.com/2016/05/02/is-this-audio-of-axl-rose-fronting-acdc/</link>
             <guid isPermaLink="false">640131e9-ffdc-4e3d-bfdb-7bd8633b9640</guid>
+            <pubDate>Thu, 05 May 2016 07:18:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://cbsradionews.files.wordpress.com/2016/04/axl-rose-angus-young-split-2.jpg?w=640&h=360&crop=1">]]></description>
+            <link>https://thegrid.ai/playguitar/c658a672-af5d-400c-b37f-0ae4fd992b40/index.html</link>
+            <guid isPermaLink="false">c658a672-af5d-400c-b37f-0ae4fd992b40</guid>
             <pubDate>Thu, 05 May 2016 07:18:33 GMT</pubDate>
         </item>
     </channel>
