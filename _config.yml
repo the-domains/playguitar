@@ -1,4 +1,4 @@
-name: GUITARBASSPLAYER
+name: GUITAR BASS PLAYER
 favicon: null
 layout_spectrum: 0.10113442968577147
 typography_spectrum: 0.4471050885040313
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.2007697990629822
-  lightness: 0.8237844184041023
-  saturation: 0.7409303144086152
-  rhythmicContrast: 0.032631966983899474
+    - '#0a9311'
+    - '#0e0307'
+    - '#5edceb'
+    - '#d0cd0e'
+    - '#e26334'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
